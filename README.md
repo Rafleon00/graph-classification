@@ -9,6 +9,6 @@ Pytorch, Pytorch Lightning, Pytorch Geometric
 pip install -r requirements.txt
 
 # Run 
-  🟢 Running on Google Colab instance: run_experiment.ipynb 
+  🟢 Running on Google Colab instance: run_experiment.ipynb (automatic on CPU, GPU or TPU)
   
   🟢 Running on Python: git clone, install requirements, run gnn_node_classification.py script with desired parameters
